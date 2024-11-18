@@ -11,5 +11,5 @@ export const personalData = {
   twitter: 'https://x.com/i_tanish1',
   instagram:'https://www.instagram.com/_i_tanish/',
   leetcode: "",
-  resume: "https://drive.google.com/file/d/1Drr5fVcEPOObbTA7X8HcBJg8wvqqLxbs/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1zIQEEpDuIOgfWNzoaINgQgBLS6f-6oU3/view?usp=sharing"
 }
